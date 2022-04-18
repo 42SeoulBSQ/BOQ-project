@@ -15,22 +15,22 @@
 
 #
 ### 4/18
-- [x] 자료구조 array list, linked list 준비 완료 및 점검
-- [x] ft_printf 진행 (1)
+- [ ] 자료구조 array list, linked list 준비 완료 및 점검
+- [ ] ft_printf 진행 (1)
 
 ### 4/19
-- [x] 블록체인 chapter 2 복습
-- [x] 블록체인 chapter 3 진행
+- [ ] 블록체인 chapter 2 복습
+- [ ] 블록체인 chapter 3 진행
 
 ### 4/20
-- [x] 블록체인 chapter 3 완료 및 티스토리에 기록
-- [x] 팔만코딩경에 글 업로드 하기
-- [x] ft_printf 진행 (2)
+- [ ] 블록체인 chapter 3 완료 및 티스토리에 기록
+- [ ] 팔만코딩경에 글 업로드 하기
+- [ ] ft_printf 진행 (2)
 
 ### 4/21
-- [x] 블록체인 스터디(chapter 2)
-- [x] ft_printf 진행 (3)
+- [ ] 블록체인 스터디(chapter 2)
+- [ ] ft_printf 진행 (3)
 
 ### 4/22
-- [x] 자료구조 스터디 (2회차)
-- [x] 자료구조 과제 진행
+- [ ] 자료구조 스터디 (2회차)
+- [ ] 자료구조 과제 진행
