@@ -15,8 +15,8 @@
 
 #
 ### 4/18
-- [ ] 자료구조 array list, linked list 준비 완료 및 점검
-- [ ] ft_printf 진행 (1)
+- [x] 자료구조 array list, linked list 준비 완료 및 점검
+- [x] ft_printf 진행 (1)
 
 ### 4/19
 - [ ] 블록체인 chapter 2 복습
