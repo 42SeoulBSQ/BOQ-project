@@ -20,36 +20,34 @@
 <br>
 
 ### 19일 (화요일)
-- [ ] ft_printf 평가 진행 (success : /100)
-- [ ] 블록체인 프로그래밍 공부
+- [x] ft_printf 평가 진행 (success : 100/100)
+- [x] 블록체인 프로그래밍 공부
   - chapter 2 복습 및 코드 구현
-- [ ] get_next_line 구현 및 내용 정리
-- [ ] 자료구조 스터디 진행
+- [x] Born2beroot 구현 및 내용 정리
+- [x] 자료구조 스터디 진행
 
 <br>
 
 ### 20일 (수요일)
-- [ ] get_next_line 구현 및 내용 정리
+- [ ] Born2beroot 구현 및 내용 정리
 
 <br>
 
 ### 21일 (목요일)
 - [ ] 블록체인 스터디 진행
 - [ ] [목요특강] 협업 도구 JIRA 로 프로젝트 진행하기 BY. 이광헌 멘토
-- [ ] get_next_line 구현 및 내용 정리
-  - Makefile
-  - test 진행
+- [ ] Born2beroot 구현 및 내용 정리
 
 <br>
 
 ### 22일 (금요일)
-- [ ] get_next_line 구현 및 내용 정리
+- [ ] Born2beroot 구현 및 내용 정리
 - [ ] 자료구조 스터디 진행
 
 <br>
 
 ### 23일 (토요일)
-- [ ] get_next_line 평가진행
+- [ ] Born2beroot 평가진행
 - [ ] 자료구조 스터디
   - 스택의 개념 공부
     - 배열로 구현한 스택
