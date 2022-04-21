@@ -19,8 +19,8 @@
 - [x] ft_printf 진행 (1)
 
 ### 4/19
-- [ ] 블록체인 chapter 2 복습
-- [ ] 블록체인 chapter 3 진행
+- [x] 블록체인 chapter 2 복습
+- [x] 블록체인 chapter 3 진행
 
 ### 4/20
 - [ ] 블록체인 chapter 3 완료 및 티스토리에 기록
