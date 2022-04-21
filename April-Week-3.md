@@ -23,12 +23,12 @@
 - [x] 블록체인 chapter 3 진행
 
 ### 4/20
-- [ ] 블록체인 chapter 3 완료 및 티스토리에 기록
+- [x] 블록체인 chapter 3 완료 및 티스토리에 기록
 - [ ] 팔만코딩경에 글 업로드 하기
 - [ ] ft_printf 평가
 
 ### 4/21
-- [ ] 블록체인 스터디(chapter 2)
+- [x] 블록체인 스터디(chapter 2)
 - [ ] ft_printf 재평가 or Born2beroot 시작.
 
 ### 4/22
