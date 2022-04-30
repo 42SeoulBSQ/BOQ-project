@@ -34,4 +34,4 @@
 - [ ] Born2beRoot 진행
 
 ### 5월 6일 (금)
-- [ ]자료구조 Recursive 진행
+- [ ] 자료구조 Recursive 진행
