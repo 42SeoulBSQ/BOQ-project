@@ -34,13 +34,13 @@ Javascript 공부도 짬내서 해보면 좋을 것 같다. (가능하다면)
 - [x] 칸반보드 (DB, API TEST)
 
 ### 5/13 (FRI)
-- [ ] 자료구조 스터디
-- [ ] 칸반보드 (DB, API TEST)
+- [x] 자료구조 스터디
+- [x] 칸반보드 (DB, API TEST)
 
 ### 5/14 (SAT)
 - [ ] Vue3 공부
-- [ ] DB Table 구조 도식화
+- [x] DB Table 구조 도식화
 
 ### 5/15 (SUN)
 - [ ] Vue3 공부
-- [ ] DB Table 구조와 API 목록 작성해보기
+- [x] DB Table 구조와 API 목록 작성해보기
