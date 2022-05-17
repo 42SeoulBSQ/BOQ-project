@@ -2,20 +2,21 @@
 
 ### 5/16 (MON)
 
--   [ ] 블록체인 6장 진행
--   [ ] 칸반보드 (Swagger, TEST)
+-   [x] 블록체인 6장 진행
+-   [x] 칸반보드 (Swagger, TEST)
 
 ### 5/17 (TUE)
 
--   [ ] 자료구조 (Heap, BST)
--   [ ] 칸반보드 (Default API TEST, Refactoring)
+-   [x] 자료구조 (Heap, BST)
+-   [x] 칸반보드 (Default API TEST, Refactoring)
 
 ### 5/18 (WED)
 
--   [ ] 칸반보드 (API 명세 및 프로젝트 기획)
+-   [x] 칸반보드 (API 명세 및 프로젝트 기획)
 
 ### 5/19 (THU)
 
+-   [ ] 블록체인 스터디 (6장)
 -   [ ] 칸반보드 (DB, Schema)
 
 ### 5/20 (FRI)
