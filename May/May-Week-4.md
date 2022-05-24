@@ -4,24 +4,24 @@
 
 -   [x] 팔만코딩경 포스팅 (세션과 JWT)
 -   [x] 자료구조 복습 및 티스토리 포스팅
--	 [x] Typescript Crash course
+-   [x] Typescript Crash course
 
 ### 5/24 (TUE)
 
 -   [ ] 자료구조 스터디
 -   [ ] 자료구조 (Graph)
--	 [x] 자료구조 복습 및 티스토리 포스팅
--	 [x] 팔만코딩경 포스팅 (Single Sign On)
+-   [x] 자료구조 복습 및 티스토리 포스팅
+-   [x] 팔만코딩경 포스팅 (Single Sign On)
 
 ### 5/25 (WED)
 
--   [ ] Vue3 (컴포넌트 구조)
--	 [ ] 블록체인 (7장)
+-   [ ] Nest js TypeORM Crash Course
+-   [ ] 블록체인 (7장)
 
 ### 5/26 (THU)
 
 -   [ ] 블록체인 스터디 (7장)
--   [ ] Vue3 (Bootstrap 활용한 로그인 화면 구성)
+-   [ ] Nest js로 CRUD 구현 Test
 
 ### 5/27 (FRI)
 
