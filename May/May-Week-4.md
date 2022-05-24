@@ -4,14 +4,14 @@
 
 -   [x] 팔만코딩경 포스팅 (세션과 JWT)
 -   [x] 자료구조 복습 및 티스토리 포스팅
--	 [ ] Typescript Crash course
+-	 [x] Typescript Crash course
 
 ### 5/24 (TUE)
 
 -   [ ] 자료구조 스터디
 -   [ ] 자료구조 (Graph)
--	 [ ] 자료구조 복습 및 티스토리 포스팅
--	 [ ] 팔만코딩경 포스팅 (Single Sign On)
+-	 [x] 자료구조 복습 및 티스토리 포스팅
+-	 [x] 팔만코딩경 포스팅 (Single Sign On)
 
 ### 5/25 (WED)
 
