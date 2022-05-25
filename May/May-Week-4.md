@@ -15,13 +15,13 @@
 
 ### 5/25 (WED)
 
--   [ ] Nest js TypeORM Crash Course
+-   [ ] Typescript 이용한 클린코드
 -   [x] 블록체인 (7장)
 
 ### 5/26 (THU)
 
 -   [ ] 블록체인 스터디 (7장)
--   [ ] Nest js로 CRUD 구현 Test
+-   [ ] Nest js TypeORM Crash Course
 
 ### 5/27 (FRI)
 
