@@ -16,7 +16,7 @@
 ### 5/25 (WED)
 
 -   [ ] Nest js TypeORM Crash Course
--   [ ] 블록체인 (7장)
+-   [x] 블록체인 (7장)
 
 ### 5/26 (THU)
 
