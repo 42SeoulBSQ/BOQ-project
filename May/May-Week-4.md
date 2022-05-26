@@ -15,13 +15,13 @@
 
 ### 5/25 (WED)
 
--   [ ] Typescript 이용한 클린코드
+-   [x] Typescript 이용한 클린코드
 -   [x] 블록체인 (7장)
 
 ### 5/26 (THU)
 
--   [ ] 블록체인 스터디 (7장)
--   [ ] Nest js TypeORM Crash Course
+-   [x] 블록체인 스터디 (7장)
+-   [x] Nest js TypeORM Crash Course
 
 ### 5/27 (FRI)
 
